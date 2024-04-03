@@ -1,0 +1,2 @@
+# Análise de Variância (ANOVA)
+A ANOVA compara as médias dos grupos e avalia a variabilidade dentro de cada grupo em relação à variabilidade entre os grupos. Ela calcula uma estatística chamada F, que é a razão da variabilidade entre os grupos pela variabilidade dentro dos grupos.
