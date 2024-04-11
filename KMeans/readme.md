@@ -1,0 +1,2 @@
+# K-means
+O K-means é um algoritmo de clusterização amplamente usado para agrupar dados em clusters. Ele divide os dados em K grupos, onde K é especificado pelo usuário. O algoritmo atribui cada ponto ao cluster mais próximo, atualiza os centróides e repete até a convergência. A clusterização é uma técnica de aprendizado não supervisionado que organiza dados em grupos com base em similaridades. É usada em diversas áreas, como segmentação de mercado e análise de dados, para revelar padrões e estruturas ocultas nos dados.
